@@ -7,10 +7,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Converstation View Controller-->
+        <!--Converstations View Controller-->
         <scene sceneID="bfE-Hy-kK2">
             <objects>
-                <viewController id="Yhk-jf-Mrw" customClass="ConverstationViewController" customModule="Messenger" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Yhk-jf-Mrw" customClass="ConverstationsViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="I6L-v4-lDZ">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
